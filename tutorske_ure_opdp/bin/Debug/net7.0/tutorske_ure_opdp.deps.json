@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tutorske_ure_opdp/1.0.0": {
+        "runtime": {
+          "tutorske_ure_opdp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tutorske_ure_opdp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
