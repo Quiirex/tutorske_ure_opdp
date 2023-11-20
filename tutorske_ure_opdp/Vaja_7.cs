@@ -5,12 +5,5 @@ namespace tutorske_ure_opdp;
  */
 public class Vaja_7
 {
-    public static void Izvedi()
-    {
-        for (var i = 5; i >= 1; i--)
-        {
-            for (var j = 1; j <= i; j++) Console.Write("*");
-            Console.WriteLine();
-        }
-    }
+    
 }

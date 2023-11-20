@@ -10,20 +10,5 @@ namespace tutorske_ure_opdp;
  */
 public class Vaja_3
 {
-    public static void Izvedi()
-    {
-        var outerCount = 0;
-        while (outerCount < 7)
-        {
-            var innerCount = 0;
-            while (innerCount < 4)
-            {
-                Console.Write("Luka ");
-                innerCount++;
-            }
-
-            Console.WriteLine();
-            outerCount++;
-        }
-    }
+    
 }

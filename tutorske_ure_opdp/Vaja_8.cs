@@ -9,11 +9,5 @@ namespace tutorske_ure_opdp;
  */
 public class Vaja_8
 {
-    public static void Izvedi()
-    {
-        Console.Write("Vnesi število:");
-        var number = Convert.ToInt32(Console.ReadLine());
-
-        Console.WriteLine(number % 2 != 0 ? "Število je liho" : "Število je sodo");
-    }
+    
 }

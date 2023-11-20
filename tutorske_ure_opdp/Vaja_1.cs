@@ -8,14 +8,5 @@ namespace tutorske_ure_opdp;
  */
 public class Vaja_1
 {
-    public static void Izvedi()
-    {
-        var i = 20;
-        while (i <= 200)
-        {
-            Console.Write(i);
-            Console.Write(i < 200 ? ", " : ".");
-            i += 2;
-        }
-    }
+    
 }

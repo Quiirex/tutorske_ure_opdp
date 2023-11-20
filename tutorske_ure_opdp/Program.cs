@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main()
     {
-        Vaja_1.Izvedi();
+        // Vaja_1.Izvedi();
         // Vaja_2.Izvedi();
         // Vaja_3.Izvedi();
         // Vaja_4.Izvedi();

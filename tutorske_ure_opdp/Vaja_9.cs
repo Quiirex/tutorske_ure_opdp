@@ -7,13 +7,5 @@ namespace tutorske_ure_opdp;
  */
 public class Vaja_9
 {
-    private static void Jaz(string ime)
-    {
-        for (var i = 0; i < 3; i++) Console.Write(ime + " ");
-    }
-
-    public static void Izvedi()
-    {
-        Jaz("Luka");
-    }
+    
 }
